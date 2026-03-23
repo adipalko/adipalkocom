@@ -12,28 +12,42 @@ const PROJECTS = [
     description:
       "A data visualization tool for Home Front Command alerts. It breaks down historical alert data by city and hour to find patterns and trends over time — turning raw emergency data into something legible.",
     tags: ["data viz", "civic tech", "israel"],
-    link: "https://github.com/adipalko/hatraot",
+    link: "/hatraot",
   },
   {
     title: "Movie Jar",
     description:
       "A digital take on the classic movie jar concept — an app to help families or couples finally decide what to watch by pulling from a curated or randomized pool of films. No more 40-minute deliberations.",
     tags: ["family", "entertainment", "decisions"],
-    link: "https://github.com/adipalko/movie-jar",
+    link: "/movie-jar",
   },
   {
     title: "Finance Tracker",
     description:
       "A unified dashboard to track personal assets across different platforms and international borders. Built to provide a single, clear view of a global portfolio without switching between five different apps.",
     tags: ["personal finance", "dashboard", "portfolio"],
-    link: "#",
+    link: "/finance-tracker",
   },
   {
     title: "Feedback App",
     description:
       "A management tool for real-time employee feedback. It helps managers give immediate input and track performance trends over time — built to make the feedback loop feel less like a formality and more like a conversation.",
     tags: ["teams", "management", "productivity"],
-    link: "https://github.com/adipalko/nistec",
+    link: "/feedback-app",
+  },
+  {
+    title: "Story Craft",
+    description:
+      "An AI-powered storytelling engine for kids. Parents can customize characters, settings, and length to generate instant, personalized bedtime stories — no two nights the same.",
+    tags: ["kids", "storytelling", "generative ai"],
+    link: "/storycraft",
+  },
+  {
+    title: "Yoga Curator",
+    description:
+      "My very first project. A platform that curates and organizes yoga content by difficulty, style, and focus — built to cut through the noise and help users find the exact practice they need.",
+    tags: ["wellness", "curation", "fitness"],
+    link: "/yogacurator",
   },
 ];
 
