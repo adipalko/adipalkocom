@@ -10,7 +10,7 @@ const nextConfig: NextConfig = {
       },
       {
         source: '/hatraot',
-        destination: 'https://hatraot.vercel.app/hatraot/',
+        destination: 'https://hatraot.vercel.app/',
         permanent: false,
       },
       {
