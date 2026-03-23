@@ -18,11 +18,11 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Adi Palkovic — Vibecoding Portfolio",
+  title: "Adi Palkovic — Portfolio",
   description:
     "Personal portfolio of AI hobby projects by Adi Palkovic — Industrial Engineer, MBA, and AI Hobbyist.",
   openGraph: {
-    title: "Adi Palkovic — Vibecoding Portfolio",
+    title: "Adi Palkovic — Portfolio",
     description: "A notebook of AI experiments, agents, and weekend builds.",
     type: "website",
   },
