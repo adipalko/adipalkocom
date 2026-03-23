@@ -5,27 +5,27 @@ const nextConfig: NextConfig = {
     return [
       {
         source: '/movie-jar',
-        destination: 'https://moviejar1.netlify.app',
+        destination: 'https://movie-jar-three.vercel.app/',
         permanent: false,
       },
       {
         source: '/hatraot',
-        destination: 'https://hatraot.netlify.app',
+        destination: 'https://hatraot.vercel.app/',
         permanent: false,
       },
       {
         source: '/finance-tracker',
-        destination: 'https://getfinancialtracker.netlify.app',
+        destination: 'https://financial-tracker-delta-snowy.vercel.app/',
         permanent: false,
       },
       {
         source: '/feedback-app',
-        destination: 'https://feedback-app-website.netlify.app',
+        destination: 'https://feedback-app-website.vercel.app/',
         permanent: false,
       },
       {
         source: '/storycraft',
-        destination: 'https://story-craft-io.netlify.app',
+        destination: 'https://story-craft-nine.vercel.app/',
         permanent: false,
       },
       {
