@@ -1,6 +1,6 @@
 import Script from "next/script";
 
-const GA_ID = "G-7GVYK104JY";
+const GA_ID = "G-3FP4XREMLD";
 
 /**
  * Google tag (gtag.js) — same as Google's install snippet, via next/script.
