@@ -5,32 +5,32 @@ const nextConfig: NextConfig = {
     return [
       {
         source: '/movie-jar',
-        destination: 'https://movie-jar-three.vercel.app/',
+        destination: 'https://movie-jar.adipalko.com',
         permanent: false,
       },
       {
         source: '/hatraot',
-        destination: 'https://hatraot.vercel.app/',
+        destination: 'https://hatraot.adipalko.com',
         permanent: false,
       },
       {
         source: '/finance-tracker',
-        destination: 'https://financial-tracker-delta-snowy.vercel.app/',
+        destination: 'https://financialtracker.adipalko.com',
         permanent: false,
       },
       {
         source: '/feedback-app',
-        destination: 'https://feedback-app-website.vercel.app/',
+        destination: 'https://feedback-app.adipalko.com',
         permanent: false,
       },
       {
         source: '/storycraft',
-        destination: 'https://story-craft-nine.vercel.app/',
+        destination: 'https://storycraft.adipalko.com',
         permanent: false,
       },
       {
         source: '/yogacurator',
-        destination: 'https://yogacurator.netlify.app',
+        destination: 'https://yogacurator.adipalko.com',
         permanent: false,
       },
     ];
