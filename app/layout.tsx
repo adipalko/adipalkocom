@@ -2,7 +2,6 @@ import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import { JetBrains_Mono } from "next/font/google";
 import "./globals.css";
-import { GoogleAnalytics } from "./components/GoogleAnalytics";
 
 const inter = Inter({
   subsets: ["latin"],
@@ -38,7 +37,6 @@ export default function RootLayout({
     <html lang="en" className={`${inter.variable} ${jetbrainsMono.variable} h-full`}>
       <body className="min-h-full flex flex-col antialiased">
         {children}
-        <GoogleAnalytics />
       </body>
     </html>
   );
