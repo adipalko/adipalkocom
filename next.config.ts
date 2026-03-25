@@ -5,7 +5,7 @@ const nextConfig: NextConfig = {
     return [
       {
         source: '/movie-jar',
-        destination: 'https://movie-jar.adipalko.com',
+        destination: 'https://moviejar.adipalko.com',
         permanent: false,
       },
       {
